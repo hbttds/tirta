@@ -1,0 +1,978 @@
+{
+  "users": {
+    "6283153600281@s.whatsapp.net": {
+      "healt": 100,
+      "level": 2,
+      "exp": 93,
+      "limit": 10,
+      "lastclaim": 0,
+      "money": 0,
+      "diamond": 0,
+      "iron": 0,
+      "common": 0,
+      "uncommon": 0,
+      "mythic": 0,
+      "legendary": 0,
+      "pet": 0,
+      "potion": 0,
+      "sampah": 0,
+      "armor": 0,
+      "kucing": 0,
+      "kucinglastclaim": 0,
+      "kuda": 0,
+      "kudalastclaim": 0,
+      "rubah": 0,
+      "rubahlastclaim": 0,
+      "anjing": 0,
+      "anjinglastclaim": 0,
+      "Banneduser": false,
+      "BannedReason": "",
+      "warn": 0,
+      "afk": -1,
+      "afkReason": "",
+      "anakkucing": 0,
+      "anakkuda": 0,
+      "anakrubah": 0,
+      "anakanjing": 0,
+      "makananpet": 0,
+      "antispam": 0,
+      "antispamlastclaim": 0,
+      "kayu": 0,
+      "batu": 0,
+      "string": 0,
+      "sword": 0,
+      "sworddurability": 0,
+      "pickaxe": 0,
+      "pickaxedurability": 0,
+      "fishingrod": 0,
+      "fishingroddurability": 0,
+      "lastadventure": 0,
+      "lastfishing": 0,
+      "lastdungeon": 0,
+      "lastduel": 0,
+      "lastmining": 0,
+      "lasthunt": 0,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "registered": false,
+      "name": "ıll CREATOR RA BOT llı",
+      "age": -1,
+      "regTime": -1,
+      "autolevelup": true
+    },
+    "6283803671955@s.whatsapp.net": {
+      "healt": 100,
+      "level": 2000,
+      "exp": 500000,
+      "coin": 0,
+      "limit": 10,
+      "tigame": 10,
+      "lastclaim": 1631336167992,
+      "money": 9999999999,
+      "diamond": 500000000,
+      "iron": 500000000,
+      "common": 500000000,
+      "uncommon": 500000000,
+      "mythic": 500000000,
+      "legendary": 500000000,
+      "as": 1631545479226,
+      "paus": 500000000,
+      "kepiting": 500000000,
+      "gurita": 500000000,
+      "cumi": 500000000,
+      "buntal": 500000000,
+      "dory": 500000000,
+      "lumba": 500000000,
+      "lobster": 500000000,
+      "hiu": 500000000,
+      "udang": 500000000,
+      "ikan": 500000000,
+      "orca": 500000000,
+      "banteng": 500000000,
+      "gajah": 500000000,
+      "kambing": 500000000,
+      "panda": 500000000,
+      "buaya": 500000000,
+      "kerbau": 500000000,
+      "sapi": 500000000,
+      "monyet": 500000000,
+      "babihutan": 500000000,
+      "babi": 500000000,
+      "ayam": 500000000,
+      "pet": 500000000,
+      "potion": 500000000,
+      "sampah": 500000000,
+      "armor": 500000000,
+      "kucing": 500000000,
+      "kucinglastclaim": 500000,
+      "kuda": 500000000,
+      "kudalastclaim": 500000,
+      "rubah": 500000000,
+      "rubahlastclaim": 0,
+      "anjing": 500000000,
+      "anjinglastclaim": 0,
+      "Banneduser": false,
+      "BannedReason": "",
+      "warn": 0,
+      "afk": -1,
+      "afkReason": "",
+      "anakkucing": 500000000,
+      "anakkuda": 500000000,
+      "anakrubah": 500000000,
+      "anakanjing": 500000000,
+      "makananpet": 500000000,
+      "antispam": 0,
+      "antispamlastclaim": 0,
+      "kayu": 500000000,
+      "batu": 500000000,
+      "string": 500000000,
+      "sword": 500000000,
+      "sworddurability": 0,
+      "pickaxe": 0,
+      "pickaxedurability": 0,
+      "fishingrod": 0,
+      "fishingroddurability": 0,
+      "lastadventure": 0,
+      "lastfishing": 0,
+      "lastdungeon": 0,
+      "lastduel": 0,
+      "lastmining": 0,
+      "lasthunt": 0,
+      "lastweekly": 1631336347109,
+      "lastmonthly": 0,
+      "registered": true,
+      "apel": 500000000,
+      "mangga": 500000000,
+      "stroberi": 500000000,
+      "semangka": 500000000,
+      "jeruk": 500000000,
+      "name": "Owner Tirtabot",
+      "age": 14,
+      "regTime": 1631242186339,
+      "premium": true,
+      "job": "masih sekolah 2 smp",
+      "lbars": "[▒▒▒▒▒▒▒▒▒]",
+      "role": "Newbie ㋡",
+      "pisang": 500000,
+      "pc": 1631576652420,
+      "warning": null,
+      "ref_count": 0
+    },
+    "6283182704827@s.whatsapp.net": {
+      "healt": 100,
+      "level": 1500,
+      "exp": 26,
+      "coin": 0,
+      "limit": 10,
+      "tigame": 10,
+      "lastclaim": 0,
+      "money": 0,
+      "diamond": 0,
+      "iron": 0,
+      "common": 0,
+      "uncommon": 0,
+      "mythic": 500000000,
+      "legendary": 500000000,
+      "as": 0,
+      "paus": 0,
+      "kepiting": 0,
+      "gurita": 0,
+      "cumi": 0,
+      "buntal": 0,
+      "dory": 0,
+      "lumba": 0,
+      "lobster": 0,
+      "hiu": 0,
+      "udang": 0,
+      "ikan": 0,
+      "orca": 0,
+      "banteng": 0,
+      "harimau": 0,
+      "gajah": 0,
+      "kambing": 0,
+      "panda": 0,
+      "buaya": 0,
+      "kerbau": 0,
+      "sapi": 0,
+      "monyet": 0,
+      "babihutan": 0,
+      "babi": 0,
+      "ayam": 0,
+      "pet": 0,
+      "potion": 0,
+      "sampah": 500000000000,
+      "armor": 0,
+      "kucing": 0,
+      "kucinglastclaim": 0,
+      "kuda": 0,
+      "kudalastclaim": 0,
+      "rubah": 0,
+      "rubahlastclaim": 0,
+      "anjing": 0,
+      "anjinglastclaim": 0,
+      "Banneduser": false,
+      "BannedReason": "",
+      "warn": 0,
+      "afk": -1,
+      "afkReason": "",
+      "anakkucing": 0,
+      "anakkuda": 0,
+      "anakrubah": 0,
+      "anakanjing": 0,
+      "makananpet": 0,
+      "antispam": 0,
+      "antispamlastclaim": 0,
+      "kayu": 0,
+      "batu": 0,
+      "string": 0,
+      "sword": 0,
+      "sworddurability": 0,
+      "pickaxe": 0,
+      "pickaxedurability": 0,
+      "fishingrod": 0,
+      "fishingroddurability": 0,
+      "lastadventure": 0,
+      "lastfishing": 0,
+      "lastdungeon": 0,
+      "lastduel": 0,
+      "lastmining": 0,
+      "lasthunt": 0,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "registered": true,
+      "apel": 0,
+      "mangga": 0,
+      "stroberi": 0,
+      "semangka": 0,
+      "jeruk": 0,
+      "name": "OWNER 2 Tirtabot",
+      "age": 14,
+      "regTime": 1631577753635,
+      "premium": true,
+      "job": "masih sekolah",
+      "lbars": "[▒▒▒▒▒▒▒▒▒]",
+      "role": "Newbie ㋡",
+      "pisang": 0,
+      "pc": 1631788424913,
+      "ref_code": "QYWmSr0bORJ",
+      "ref_count": 7
+    }
+  },
+  "chats": {
+    "6281328139682-1623840552@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiToxic": false
+    },
+    "6283803671955@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiToxic": false
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 46,
+      "success": 34,
+      "last": 1631790439244,
+      "lastSuccess": 1631790439244
+    },
+    "sticker.js": {
+      "total": 15,
+      "success": 13,
+      "last": 1631788406926,
+      "lastSuccess": 1631576252648
+    },
+    "banchat.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1629123999618,
+      "lastSuccess": 1629123999618
+    },
+    "yt-comment.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1628752915531,
+      "lastSuccess": 1628752915531
+    },
+    "infoCmdWithMedia.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1628753030295,
+      "lastSuccess": 0
+    },
+    "register.js": {
+      "total": 5,
+      "success": 4,
+      "last": 1629124012000,
+      "lastSuccess": 1629124012000
+    },
+    "hunt.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1629124086410,
+      "lastSuccess": 1629124086410
+    },
+    "ytv.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1628911530282,
+      "lastSuccess": 1628911530282
+    },
+    "jadikatalog.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1628911641349,
+      "lastSuccess": 1628911641349
+    },
+    "jadilokasi.js": {
+      "total": 3,
+      "success": 2,
+      "last": 1628911670311,
+      "lastSuccess": 1628911659030
+    },
+    "audio-bass.js": {
+      "total": 14,
+      "success": 13,
+      "last": 1631242919930,
+      "lastSuccess": 1631242919930
+    },
+    "base64.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1628912409363,
+      "lastSuccess": 1628912409363
+    },
+    "button.js": {
+      "total": 87,
+      "success": 87,
+      "last": 1631788473322,
+      "lastSuccess": 1631788473322
+    },
+    "absenmenu.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1628916475101,
+      "lastSuccess": 1628916475101
+    },
+    "downloadmenu.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1628916952866,
+      "lastSuccess": 1628916952866
+    },
+    "jadibotmenu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1628916454228,
+      "lastSuccess": 1628916454228
+    },
+    "groupset.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1629303283698,
+      "lastSuccess": 1629303283698
+    },
+    "enable.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1629303249342,
+      "lastSuccess": 1629303249342
+    },
+    "educationmenu.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1630381518896,
+      "lastSuccess": 1630381518896
+    },
+    "dompet.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1631789841276,
+      "lastSuccess": 1631789841276
+    },
+    "editormenu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1628916536197,
+      "lastSuccess": 1628916536197
+    },
+    "ownermenu.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1630381504304,
+      "lastSuccess": 1630381504304
+    },
+    "absen.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1628916690835,
+      "lastSuccess": 1628916690835
+    },
+    "absen-start.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1628916683830,
+      "lastSuccess": 1628916683830
+    },
+    "play+.js": {
+      "total": 21,
+      "success": 16,
+      "last": 1631790057800,
+      "lastSuccess": 1631789422102
+    },
+    "brainly.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1628917026559,
+      "lastSuccess": 1628917026559
+    },
+    "comictext.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1631331521234,
+      "lastSuccess": 1631331521234
+    },
+    "buggc.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1628917401560,
+      "lastSuccess": 0
+    },
+    "tutorial.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1628917419148,
+      "lastSuccess": 1628917419148
+    },
+    "family100.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1628917493387,
+      "lastSuccess": 1628917493387
+    },
+    "toimg.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1631695141988,
+      "lastSuccess": 1631695141988
+    },
+    "stickerly.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1628917962038,
+      "lastSuccess": 1628917962038
+    },
+    "creator.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1631789506803,
+      "lastSuccess": 1631789506803
+    },
+    "binary.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1628918538649,
+      "lastSuccess": 1628918538649
+    },
+    "daily.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1628919051950,
+      "lastSuccess": 1628919051950
+    },
+    "''-.mnc.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1630381007477,
+      "lastSuccess": 1630381007477
+    },
+    "Grup-seting.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1629303317329,
+      "lastSuccess": 1629303317329
+    },
+    "\"-.berburu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1631545479226,
+      "lastSuccess": 1631545479226
+    },
+    "kolam.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1630381021384,
+      "lastSuccess": 1630381021384
+    },
+    "tukarcoin.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1630381493978,
+      "lastSuccess": 1630381493978
+    },
+    "rankcard.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1630405928501,
+      "lastSuccess": 1630405928501
+    },
+    "jedagjedug.js": {
+      "total": 10,
+      "success": 4,
+      "last": 1631242998316,
+      "lastSuccess": 1631242932133
+    },
+    "button5.js": {
+      "total": 127,
+      "success": 109,
+      "last": 1631790447077,
+      "lastSuccess": 1631790447077
+    },
+    "kick.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1630384415585,
+      "lastSuccess": 1630384415585
+    },
+    "ping.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1631288338584,
+      "lastSuccess": 1631288338584
+    },
+    "salat.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1630405545384,
+      "lastSuccess": 1630405545384
+    },
+    "menuyyy.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1631691652724,
+      "lastSuccess": 1631691652724
+    },
+    "donasi.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1631577429947,
+      "lastSuccess": 1631577429947
+    },
+    "plot.js": {
+      "total": 8,
+      "success": 2,
+      "last": 1630405512033,
+      "lastSuccess": 1630405504195
+    },
+    "sc.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1630405817826,
+      "lastSuccess": 1630405817826
+    },
+    "youtubeowner.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1631544921193,
+      "lastSuccess": 1631544921193
+    },
+    "gb.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1630405586069,
+      "lastSuccess": 1630405586069
+    },
+    "unbanchat.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1630405774593,
+      "lastSuccess": 1630405774593
+    },
+    "menu1.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1631790431816,
+      "lastSuccess": 1631790431816
+    },
+    "antiheboh.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1631242323122,
+      "lastSuccess": 1631242323122
+    },
+    "gay.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631242128711,
+      "lastSuccess": 1631242128711
+    },
+    "daftar.js": {
+      "total": 21,
+      "success": 12,
+      "last": 1631788880633,
+      "lastSuccess": 1631788871499
+    },
+    "menurandom.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1631691823353,
+      "lastSuccess": 1631691823353
+    },
+    "setCmdWithMedia.js": {
+      "total": 7,
+      "success": 6,
+      "last": 1631789392980,
+      "lastSuccess": 1631789392980
+    },
+    "Internetmenu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631242208350,
+      "lastSuccess": 1631242208350
+    },
+    "listmsg.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631242236135,
+      "lastSuccess": 1631242236135
+    },
+    "virusganasmenu.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1631789400669,
+      "lastSuccess": 1631789400669
+    },
+    "piltek.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631242443863,
+      "lastSuccess": 1631242443863
+    },
+    "menuvirtex.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1631336133051,
+      "lastSuccess": 1631336133051
+    },
+    "audio-tupai.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1631242941882,
+      "lastSuccess": 1631242941882
+    },
+    "audio-robot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631242797737,
+      "lastSuccess": 1631242797737
+    },
+    "leavegc.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1631788361205,
+      "lastSuccess": 1631788361205
+    },
+    "virtexringan.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631243107595,
+      "lastSuccess": 1631243107595
+    },
+    "group.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631280254926,
+      "lastSuccess": 1631280254926
+    },
+    "request.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631280269171,
+      "lastSuccess": 1631280269171
+    },
+    "iklan.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1631289472234,
+      "lastSuccess": 1631289472234
+    },
+    "fakta.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631335956829,
+      "lastSuccess": 1631335956829
+    },
+    "jadwaltv.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631335998311,
+      "lastSuccess": 1631335998311
+    },
+    "claim.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631336167993,
+      "lastSuccess": 1631336167993
+    },
+    "Judi.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1631545395744,
+      "lastSuccess": 1631545395744
+    },
+    "weekly.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631336347110,
+      "lastSuccess": 1631336347110
+    },
+    "ytmp4.js": {
+      "total": 8,
+      "success": 1,
+      "last": 1631544908071,
+      "lastSuccess": 1631336827501
+    },
+    "math_answer.js": {
+      "total": 4,
+      "success": 0,
+      "last": 1631787126581,
+      "lastSuccess": 0
+    },
+    "aboutmenu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631544200812,
+      "lastSuccess": 1631544200812
+    },
+    "status.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1631544221481,
+      "lastSuccess": 1631544221481
+    },
+    "convertermenu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631545265916,
+      "lastSuccess": 1631545265916
+    },
+    "advanturemenu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631545282278,
+      "lastSuccess": 1631545282278
+    },
+    "slots.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631545296023,
+      "lastSuccess": 1631545296023
+    },
+    "jadibot.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1631577202066,
+      "lastSuccess": 1631577202066
+    },
+    "addprem.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1631576892322,
+      "lastSuccess": 1631576892322
+    },
+    "meme_indo.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1631577058965,
+      "lastSuccess": 1631577058965
+    },
+    "antitoxic.js": {
+      "total": 6,
+      "success": 3,
+      "last": 1631788230427,
+      "lastSuccess": 1631788230427
+    },
+    "broadcastjadibot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631577801963,
+      "lastSuccess": 1631577801963
+    },
+    "p.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1631694768795,
+      "lastSuccess": 1631694768795
+    },
+    "tes.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1631695196051,
+      "lastSuccess": 1631695196051
+    },
+    "mining.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631695351285,
+      "lastSuccess": 1631695351285
+    },
+    "kontol.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1631789004632,
+      "lastSuccess": 1631789004632
+    },
+    "verify.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1631789016172,
+      "lastSuccess": 1631789016172
+    },
+    "afk.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1631788721390,
+      "lastSuccess": 1631788721390
+    },
+    "button2.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1631787317170,
+      "lastSuccess": 0
+    },
+    "puisi.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631787504363,
+      "lastSuccess": 1631787504363
+    },
+    "buylimit.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1631788005828,
+      "lastSuccess": 1631788005828
+    },
+    "tebakgambar.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631788074489,
+      "lastSuccess": 1631788074489
+    },
+    "online.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1631790417943,
+      "lastSuccess": 1631790417943
+    },
+    "attp.js": {
+      "total": 26,
+      "success": 26,
+      "last": 1631790396098,
+      "lastSuccess": 1631790396098
+    },
+    "readmore.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631789382078,
+      "lastSuccess": 1631789382078
+    },
+    "premlist.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1631789411862,
+      "lastSuccess": 0
+    },
+    "bughole.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631789428396,
+      "lastSuccess": 1631789428396
+    },
+    "hadiahmenu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631789524407,
+      "lastSuccess": 1631789524407
+    },
+    "referal.js": {
+      "total": 10,
+      "success": 9,
+      "last": 1631789811470,
+      "lastSuccess": 1631789811470
+    },
+    "banuser.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631789959944,
+      "lastSuccess": 1631789959944
+    },
+    "siapa.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631790164306,
+      "lastSuccess": 1631790164306
+    },
+    "image.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1631790169128,
+      "lastSuccess": 1631790169128
+    },
+    "shop.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1631790375711,
+      "lastSuccess": 1631790375711
+    }
+  },
+  "msgs": {},
+  "sticker": {
+    "50cb0a11e7222b07eee4d81966247e4248be667947d2f11c87c9f737fe61dcfd": {
+      "text": ".menu",
+      "mentionedJid": []
+    },
+    "386cc8d52e365b0bfc28311325ccf0d1413ed4b47f5c00d003bff2395cedcfc7": {
+      "text": ".menu",
+      "mentionedJid": []
+    },
+    "62e62491c3918336451a49ec40249d9042838c129438846e39bddddef9e41713": {
+      "text": ".afk",
+      "mentionedJid": []
+    },
+    "a21d3ce234a1dad8685e74dafff84515fa04c1124a4f91e3821e74941b153261": {
+      "text": ".langsung",
+      "mentionedJid": []
+    },
+    "076f2f53326fea22d4316cd3bc3458635a3cf973327c232accdee55746dbe296": {
+      "text": ".virusganasmenu",
+      "mentionedJid": []
+    }
+  },
+  "settings": {
+    "anon": true,
+    "anticall": true,
+    "antispam": true,
+    "antitroli": true,
+    "backup": false,
+    "backupDB": 0,
+    "groupOnly": false,
+    "jadibot": false,
+    "nsfw": true,
+    "status": 0
+  }
+}
